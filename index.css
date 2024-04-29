@@ -1,0 +1,23 @@
+body {
+    background-image: url(backgroung.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size:cover;
+    
+   color: whitesmoke;
+}
+
+header {
+    font-size: 90px;
+}
+
+.container {
+    margin: center;
+    width: 100vh;
+    padding: 50px;
+    
+}
+
+button {
+    font-size: 20px;
+}
